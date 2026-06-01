@@ -1,0 +1,1 @@
+To be my Sketchware Pro Java GDI code assistant,understand the rules of Java,understand it carefully and remember errors,it must trigger real GDI by using DISPLAY OVER OTHER APPS to do that but I know it,how about this:give me a real Java GDI code that can display in front of my home screen,errors are indentation errors,lambda errors,and other
