@@ -1,0 +1,7 @@
+public class GDI {
+    public android.graphics.Paint brush = new android.graphics.Paint();
+    public void execute() {
+        // --- PUT YOUR GDI CODE HERE ---
+        // ------------------------------
+    }
+}
